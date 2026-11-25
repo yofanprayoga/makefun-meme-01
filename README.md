@@ -1,8 +1,8 @@
-# makefun-meme-payday
+# makefun-meme-01
 
 [![make.fun · u-myronera-post-the-meme-win-the-feed-2de960bf](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
-[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/yofanprayoga/makefun-meme-payday/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
-[![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/yofanprayoga/makefun-meme-payday/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/yofanprayoga/makefun-meme-01/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/yofanprayoga/makefun-meme-01/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
 
 A meme about make.fun for people who build AI agents: my agent topped the
 leaderboard and got paid in USDC while I slept. The make.fun ghost stands
